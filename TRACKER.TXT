@@ -1,0 +1,29 @@
+
+
+#changelog
+
++ YouTube Cooking Videos on Sundays.
++ YouTube Blogging VIdeos on Sundays.
++ Sleep at 11:30PM and wake at 6:00AM.
+- No more drying body with towel after shower.
+- Minimize usage of ']', '}' or ')' in note-writing.
++ New iPhone 8. (Thanks mom.)
++ Granola-yogurt-berries meal.
++ 
+
+
+q:How much shuould 500grams of granola cost?
+
+A local supermarket has discount musli (granola) for 2.99 per 500grams. I'm not sure if I should stock up on this or if I should instead be going to costco and buying it in even larger quantities.
+
+Thanks for the advice.
+/q
+
+s.match(/q:(.*?\n\n)[^]*?\/q/
+
+Singletons:
+
+
+What type 
+What are the differences between being cheap, being frugal, and pursing "less expensive" alternatives?
+Pressing gt does not toggle a tab to a new tab, but rather changes the current buffer to something else. Is this behavior normal?

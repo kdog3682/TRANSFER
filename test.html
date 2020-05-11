@@ -1,0 +1,68 @@
+<script src="https://rawgit.com/web-animations/web-animations-js/master/web-animations.min.js"></script>
+
+<html>
+<div class="animated" id="one"></div>
+<div class="animated" id="two"></div>
+<div class="animated" id="three"></div>
+</html>
+
+<style>
+ 
+ body {
+  display: flex;
+}
+
+.animated {
+  width: 25vmin;
+  height: 25vmin;
+}
+
+#one { background-color: coral; }
+#two { background-color: tomato; }
+#three { background-color: orangered; }
+</style>
+
+<script>
+//  function timeline(elementsWithKeyframesAndOptions) {
+//   elementsWithKeyframesAndOptions.reduce(
+//     (previousPromise, [element, keyframes, options]) => {
+//       console.log(element)
+//       console.log(keyframes)
+//       return previousPromise.then(() => element.animate(keyframes, options).finished)
+//       }
+//       ,
+//     Promise.resolve()
+//   )
+// }
+
+async function timeline(elementsWithKeyframesAndOptions) {
+  for (const [element, keyframes, options] of elementsWithKeyframesAndOptions) {
+    let action = element.animate(keyframes, options)
+    await action.finished
+  }
+}
+
+const options = {
+ duration: 1000,
+ fill: 'forwards',
+}
+const keyframes = [
+  { transform: 'translateY(0px)' },
+  { transform: 'translateY(20px)' },
+  { transform: 'translateY(0px)' },
+]
+
+let x = document.querySelector("#one").animate(keyframes, options)
+
+const callback = () => {
+ let y = document.querySelector("#two").animate(keyframes, options)
+}
+x.finished.then(callback)
+
+// timeline([
+//   [document.querySelector("#one"), rotate360, options],
+//   [document.querySelector("#two"), rotate360, options],
+
+// ])
+
+</script>

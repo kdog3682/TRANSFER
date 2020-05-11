@@ -1,0 +1,41 @@
+eyes;
+kind of gunky
+not terrible
+a little irritated with feeling of something inside of them
+a little of the characteristic 'dry' feeling
+
+shunt@projectideas
+node voice:
+if the current position is start of line, or end of line, or sstart of doc, or end of doc, or inside a function, or tabbed by a certain amount, or a text file, or a html file, or has a linting error, or the texteditor is active
+How might I make a vscode extension for people with sight difficulties? @askprogramming
+The vscode editor api has triggers which can tell you the position of your current plce in the file, as well s relevant meta information like filename, directory, et cetera. Basically, everything is programmable.
+
+I'm hoping to coney this information for people with sight difficulties. I've noticed when I use the computer without being able to see the screen, that my biggest difficulties are forgetting where I am in the document, swell as where or what document / tab I am in. Did I just type the same thing twice? Did I press enter? These are ll problems that I'm struggling with.
+
+My idea is to connect some sort of 'sound playing' node library with the vscode api.
+For exmple, if the cursor is at the start, a recorded mp3 will play "Start of document."
+
+I am wondering:
+Does node have ny stble 'sound-playing/audio-playing' libraries?
+2. Are there any 'text-reading' libraries? A library that would be able to read a string basically.
+3. Is there already something like this created, that solves the problems I am trying to solve? (i have tried voiceover for macbook, but sometimes it gets in the way of things)
+
+Thanks for the help!
+shuntend
+
+feels kind of uncomfortable, but not drastically so
+
+throat;
+throat feels fine, a little dry, but that is to be expected
+
+sleep;
+i did wake up again in the middle of the night i believe... not sure why this is happening
+
+productive;
+
+
+
+
+
+
+

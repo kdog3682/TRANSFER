@@ -1,0 +1,123 @@
+
+Okay. SO what's going to be my strategy for organizing these noetes? Maybe do a folderwide parse.
+
+1. raead all the text files.
+parse for one letter notes.
+catch all of them.
+
+build a json. yeah ...
+
+not sure if this computer has python 3
+
+
+Um.
+
+
+
+
+if ends with
+
+capitalize the first letter.
+  
+
+n: the reddit poster requires the last item to have END. It d oesn't requirequestion marks.
+o my post regarding eval was downvoted almost religiously.
+o the weather is really good right now, but i feel like i have to sieze this period of quiet to do some productive work
+
+m i have too many files everywhere. need a way to get mBetter at managing the complexity
+o i start drifting in my thoughts everytime i type without looking at the keybscreen.
+q
+q i need to engage in 2 types of work. The first, is what I consider meaningful, and is what I probably will not be paid for. The second is to do work that pays the bills. I suppose I have the ability to give people exactly what they want.
+o I should do one letter notes on the chromebook and certainly not on the macbook.
+
+
+
+
+c promise.resolve immediately returns a promised value. Basically it is used for initiating promise chains.
+n d /dn
+s I coompleted the vscode extensions to a reasonable degree. next step: publish them
+
+
+l itchy eyes
+
+n do things in each to its own place . one letter notes is for one letter notes
+n be proactive about listening to music, and cooking, and getting out of noisy situations, when at home
+n
+n
+
+@ Is one million actions the benchmark for an app that will run reasonably fast without noticeable delays? @ljs In a different post, I asked about what optimizations actually matter, . Jcunews posted that basically it doesn't matter if its 1 million or less. I'm now wondering, if this is the case, that I can write extremely sloppy or "data/action-intensive' code, as longas I don't come close to a level of 1 million actions.
+r comfort is king
+
+a
+m losing both of my heyday earpods
+m not buying birthday gift for my sister on time
+a my life is flawed, and I lack in social interaction. I'm not good at social interaction. I've never been that good. I often feel weak. I often give off a an aloof vibe, like I'm not completely present. I don't talk to very many people. Sometimes, I have an uncouth feeling. I'm not very close with my parents. Do I accept this? I don't know. I accept some of it.. But there are parts of this, that I can change.
+c
+n don't touch eyes.it will only get itichier.
+c it is correct to split the steps up. The primary reason is that less accounting is needed.
+o life is a balance between the things that you can and cannot control
+o
+t
+t never share personal opinions Qexample: it's okay to make mistakes)
+c
+c write your code in such a way that a person who has never read it before, can have a pretty cursory understanding. this means not being "cute" and embedding read and readfolder together. Just write 1 functions: read and readfolder.
+cPromise.all, Promise.resolve ... immediately resolves the given answer into a thenable. Await can be used, if the context is an async function.  Anything that exposes a thenable, can be awaited.
+td store the contents of most of my files on jsons.
+o
+
+o I don't really do anything with past data, like my saved redidit posts. although I believe there is a wealth of information contained in these items.
+r never talk about work with Yijie
+r don't be superficial nice when meeting someone for the first time
+
+r it's better to be kind of cold and be your natural self, then to be superficial nice.
+o When an immigrant succeeds, you can kind of feel the entire pot start to boil.
+
+i the key for student circles will be the tutorials
+i the key to making sure a self-selecting portion of students enter the program is to place the information in plain sight, but with very high engagement terms. You have to solve a puzzle to enter the program.Registration of a New York phone.
+o parents might hld grudges against their children because of instances they experienced from their own parents.
+o writing these negative words makes me feel really sleepy. Thinking about my mom ... makes me really sleepy.
+nnaccept mom, and everything she experienced. You can honor a person's story, even if you don't agree with the story. no more of this. no more of this.
+
+
+a mom follows her patterns. she is shaped as she is shaped, and I am shaped as I am shaped. Give acceptance to the real her, you don't have to judge it.
+
+
+n correct to use the large glass pane in my bedroom for prototyping
+n i really need to devise strategies to preserve my eyes
+ i think my eyes can take about 2 hours, if no precision squinting is affected. i think there must be a solutionn.
+td i need to figure out a way tomake these snippets go super fast, to minimize the amount that needs to be typed. i need to be able to see the shapes in my head. i need to memorize the structures. i need to learn how to design without seeing the product.  the key is to use generators and snippets.
+q maybe a generator for python ... but i think i am coming to a close ... with the types of stuff i will be doing with python.,
+
+
+r don't hide who you are
+
+r You have to be you, but at the same time, you have to be a person who follows the way of society.
+
+me My motivation needs to be independent of proving others right or wrong.
+me I must put my spirit into Student Circles to invoke the spirit of the copyright. At the same time, I must stay as a distant spectre, to preserve the proper boundaries.
+r Yijie is my friend.  But he is someone that vibes with me.I cannot ask anymore. THat's kind of what I've come to understand. I cannot really ask anymore.
+oThe phenotypes of Chinese-American seem to fall under predictable categories.
+td
+td i have to be able to do these things whiithout looking at the screen. I think it would be pretty cool wouldn't it?
+o It is wrong to speak my dreams to Susan.My 5 year plan is to be a teacher.
+me I don't like talking about myself.
+o Mom waited 10 years before having a second child. This was not a coincidence. There were unconscious forces at play, shaping these events.
+td I have to find a way to get locked into the zone of creation.
+td I have toembrace the social aspect of being a human.
+
+o There will be people watching my actions.
+
+oI am smart because I consciously move into the future, with the way that I think. When people interact with me, they realize that I am somewhat conscious.
+
+td I should seek out the instances where my weaknesses can be displayed.
+td Find the quiet areas.
+o My ability is finding something to aggregate.
+
+oMy discovery of programming perhaps came in kind of a slow fashion. No one really told me  the efficacy of it.
+
+m
+
+q Did I do something to engeder that syrupy treatment today at the rice purchase place?
+
+me the 5 influences closest to me currently are 1) 1119 housemates, the memory of EMC and the students,that'at seems to be about it.
+
